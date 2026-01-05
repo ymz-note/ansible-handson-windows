@@ -1,5 +1,5 @@
 [windows]
-EC2AMAZ-NGLQBHB ansible_host=ec2-52-194-186-179.ap-northeast-1.compute.amazonaws.com
+EC2AMAZ-NGLQBHB ansible_host=<ホスト名>
 
 [windows:vars]
 ansible_user=ansibleuser
